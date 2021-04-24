@@ -26,7 +26,7 @@ router.get('/:id', async (req, res) => {
     // .then((categories) => res.json(categories))
     
     if (!categoryData) {
-      res.status(404).json({ message: 'No reader found with that id!' });
+      res.status(404).json({ message: 'No category found with that id!' });
       return;
     }
 
