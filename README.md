@@ -1,7 +1,7 @@
 # E-Commerce Back-end
 
 ## Description
-This project allows users to view all categories, products, and tags for a company's inventory. The user can also add, view, and delete items from each of these categories.
+This project allows users to view all categories, products, and tags for a company's inventory. The user can also add, view, and delete items from each of these categories. Link to demonstration video: https://drive.google.com/file/d/1uDe8LLNiYnvQQ7kqw_PvFHROGcakUmMn/view
 
 ## Table of Contents
 1. [Installation](#installation)
